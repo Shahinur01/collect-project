@@ -1,0 +1,53 @@
+a{
+    text-decoration: none;
+}
+body{
+    font-family: 'Roboto', sans-serif
+}
+.collect-width{
+    font-weight: 700;
+}
+.images-collect{
+    height: 35px;
+    border-radius: 15%;
+    float: left;
+}
+.btn-1{
+    background-color:#9db63b;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 11px;
+}
+.btn-1:hover{
+    color:#fabe4c; 
+}
+.the-collects{
+    color: #fabe4c;
+}
+.collect{
+    color: #9db63b;
+}
+.collect-menu .nav-link{
+    margin-left: 20px;
+    color: black;
+    font-weight: 700;
+}
+.shahinur-img{
+    width: 500px;
+    height: 500px;
+}
+.shahinur-img-1{
+    width: 100%;
+    /* height: 300px; */
+}
+.logo img{
+    width: 120px;
+    height: 120px;
+}
+p{
+    /* margin: 0 !important; */
+}
+.name:hover{
+    background-color: #9db63b;
+}
